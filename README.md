@@ -1,8 +1,8 @@
 # Octoprint-Printinfo Plugin
 This plugin allows you to send information about your 3D printing job to a WordPress website. It sends information such as the filename, filament length, print time, printer name, and temperatures. It also sends updates on the print progress as it happens.
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/bmelim/Octoprint-Printinfo?label=version)
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/bmelim/Octoprint-Printinfo)
+![Tag 1](https://img.shields.io/github/tag/bmelim/Octoprint-Printinfo.svg)
+![Tag 2](https://img.shields.io/github/tag-pre/bmelim/Octoprint-Printinfo.svg)
 # There are two plugins to install;
 
 ## Octoprint - Printinfo Plugin
